@@ -1,4 +1,4 @@
-import { breedSelect } from './index';
+import { breedSelect } from '../index';
 import SlimSelect from 'slim-select';
 import 'slim-select/dist/slimselect.css';
 

@@ -1,4 +1,4 @@
-import { divPictEl, divDescEl } from './index';
+import { divPictEl, divDescEl } from '../index';
 
 const renderBreedDesc = breed => {
   const markupPicture = `<img class="cat-picture" src="${breed.url}" alt="${breed.id}">`;
