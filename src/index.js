@@ -5,7 +5,7 @@ axios.defaults.headers.common['x-api-key'] =
 
 import { fetchCatByBreed } from './js/cat-api';
 import { renderBreedDesc } from './js/renderBreedDesc';
-import { fetchAndRenderBreeds } from './js/renderBreedsSelect';
+import { fetchAndRenderBreeds } from './js/fetchAndRenderBreeds';
 
 import Notiflix from 'notiflix';
 
