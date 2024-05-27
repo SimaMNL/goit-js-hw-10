@@ -1,4 +1,4 @@
-import { loaderEl, breedSelect } from './';
+import { loaderEl, breedSelect } from './renderBreedsSelect';
 import { fetchBreeds } from './cat-api';
 import { renderBreedsSelect } from './renderBreedsSelect';
 
